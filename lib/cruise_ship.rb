@@ -13,5 +13,6 @@ passengers.each do |suite, name|
     winner = name
 end
 end
-
+def happy_birthday(birthday_kids)
+  
 end
